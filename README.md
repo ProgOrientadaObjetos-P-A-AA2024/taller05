@@ -3,10 +3,10 @@
 
 
 * Dada las siguiente problemáticas:
-	* Dia-UML: Crear un diagrama UML de las clases involucradas (generar el archivo .dia y .jpg)
-	* Netbeans: Generar un clase que represente la solución a la problemática y crear un clase llamada Ejecutor (usar dos paquetes) que permita iniciar 2 objetos de la clase. La información **NO** será ingresada por teclado.
-	* En la creación de los objetos, se debe hacer uso de dos constructores de la clase (**1 por cada objeto**) que permita establecer los valores iniciales del objeto como argumentos.
+	* Crear una carpeta por cada **problema**
+	* En cada problema crear una proyecto en Netbeans 
 	* Para presentar los datos del objeto, usar el método toString.
+	* Ingresar datos **por teclado**
 
 ### Problema 1
 
@@ -19,7 +19,7 @@
 		crear un objeto donde se debe usar un constructor que espere como parámtros
 		nombre, calificación 1, 2 y 3.
 
-### Problema 3
+### Problema 2
 
 * Un automotor tiene entre sus características, cédula del dueño, marca de vehículo, año de fabricación, valor de vehículo y valor de la matricula. El valor de la matricula es igual al 0.002% del valor de vehículo por el número de años de antiguedad del vehículo.
 
